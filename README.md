@@ -6,12 +6,14 @@ This repo contains scripts to split up a large spreadsheet of bike traffic data 
 
 First, install sqlite3.
 
-1. npm install
-2. node .
+1. `npm install`
+2. `node .``
 
 ### Output
 
-Each file contains hourly traffic counts, linked to the in/sites.csv file.
+Each file contains hourly traffic counts, linked to the `in/sites.csv` file.
 
+```
 out/site/SITEID/YEAR.csv
 out/site/SITEID/all.csv
+```
