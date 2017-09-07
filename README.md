@@ -7,7 +7,7 @@ This repo contains scripts to split up a large spreadsheet of bike traffic data 
 First, install sqlite3.
 
 1. `npm install`
-2. `node .``
+2. `node .`
 
 ### Output
 
